@@ -1,0 +1,2 @@
+# prog_est_Proyecto_final
+Programa en lenguaje c que hace un registro de extintores de fuego para tener un control de ellos en la UVM, la cual el menú tiene como opciones, agregar extintor, listar todos los extintores, listar extintores de un edificio especifico, listar extintores de una fecha especifica, listar extintores de un tipo especifico, recargar extintor, guardar archivo, y cargar archivo
